@@ -1,0 +1,11 @@
+/**
+ *
+ */
+#apiResult{
+	width:90%;
+	margin:1em;
+	text-align: left;
+}
+#apiResult li{
+	color:#777;
+}

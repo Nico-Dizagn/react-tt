@@ -1,0 +1,36 @@
+.memo {
+	float:left;
+	border-radius:8px;
+	background-color: #DDD;
+	text-align: left;
+	width:100%;
+	padding:5px 15px;
+	margin:5px 0px;
+}
+.memoDone {
+	background-color: #bbb;
+}
+.memo span{
+	display: inline-block;
+	margin-top:5px;
+	width:90%;
+}
+.memo button{
+	float:right;
+}
+.memo input{
+	border:0px solid #000;
+	width:90%;
+	margin-top:5px ;
+	background-color: transparent;
+}
+
+#memoEdit input{
+	color:red;
+	background-color: #EEE;
+	width:85%;
+}
+
+.memoCheck{
+	margin-right: 0.5em;
+}
